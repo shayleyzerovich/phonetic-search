@@ -1,7 +1,4 @@
-/**
-Author - Netanel albert
-Date - 2020-3
-*/
+
 
 #include "doctest.h"
 #include "PhoneticFinder.hpp"
